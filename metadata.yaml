@@ -1,0 +1,40 @@
+_repo: The-Wonders-of-Life-A-Popular-Study-of-Biological-Philosophy_46652
+contributor:
+  translator:
+    agent_name: McCabe, Joseph
+    aliases:
+    - Macabe, Joseph
+    - McCabe, Antony
+    - Antony, Father
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '521'
+    url: http://www.gutenberg.org/2009/agents/521
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
+covers:
+- cover_type: archival
+  image_path: 46652/46652-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Haeckel, Ernst
+    alias: Haeckel, Ernst Heinrich Philipp August
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '2037'
+    url: http://www.gutenberg.org/2009/agents/2037
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
+description: ''
+gutenberg_issued: '2014-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Wonders of Life
+
+  A Popular Study of Biological Philosophy'
+url: http://www.gutenberg.org/ebooks/46652
